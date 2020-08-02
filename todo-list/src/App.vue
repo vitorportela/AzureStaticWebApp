@@ -3,21 +3,21 @@
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
         <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3</h1>
-        <h2 class="ui inverted header">Glaucia Lemos
-          <div class="sub header">Cloud Advocate em JavaScript/Node.js @ Microsoft</div>
+        <h2 class="ui inverted header">Vitor Araujo Portela Lima
+          <div class="sub header">Front-end Developer</div>
         </h2>
-        <h3 class="ui inverted header">Rio de Janeiro, Brasil - 2020</h3>
-        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
-          <i class="youtube icon"></i>
-          YouTube
+        <h3 class="ui inverted header">São Paulo, Brasil - 2020</h3>
+        <a class="tiny ui github button" type="button" href="https://github.com/vitorportela">
+          <i class="github icon"></i>
+          Github
         </a>
-        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/glaucialemos/">
+        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/vitor-portela">
           <i class="linkedin icon"></i>
           LinkedIn
         </a>
-        <a class="tiny ui twitter button" type="button" href="https://twitter.com/glaucia_lemos86">
-          <i class="twitter icon"></i>
-          Twitter
+        <a class="tiny ui instagram button" type="button" href="https://www.instagram.com/vitor2293">
+          <i class="instagram icon"></i>
+          Instagram
         </a>
       </div>
     </div>
