@@ -2,6 +2,7 @@
 BOOTCAMP DIO Cloud Computing & Serverless
 
 Repositório de teste de deploy automático e integrado usando o **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=vuechatapp_swa-github-gllemos)** e **[GitHub Actions](https://help.github.com/pt/actions)**.
+
 Desenvolvido pela **[Glaucia Lemos](https://github.com/glaucia86/vuejs-todolist-swa)** e modificado por mim.
 
 SITE: **[AQUI](https://ashy-dune-03a658d10.azurestaticapps.net/)**
